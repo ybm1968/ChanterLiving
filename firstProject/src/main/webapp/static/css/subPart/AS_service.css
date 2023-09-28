@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+
+
+body {
+	background-color: #D3D3D3;
+	box-sizing: content-box;
+	margin: 0;
+	padding: 0;
+}
+
+/* 동영상 부분 */
+.jb-box {
+	width: 100%;
+	overflow: hidden;
+	margin: 0px auto;
+	position: absolute;
+	position: fixed;
+	z-index: -9;
+	top: 0;
+}
+
+video {
+	width: 100%;
+	height: calc(100vh + 80px);
+	object-fit: cover;
+}
+
+/* 비디오 및 사진 스크롤 관련 css */
+.outerClass{
+	height: 2000px;
+}
+
+.innerClass{
+	position: sticky;
+	top: 0;
+}
+
+/* 배경 동영상 위로 지나가는 텍스트 */
+.textDeco {
+	text-align: center; 
+	z-index: 10; 
+	color: white;
+}
+
+.scrollText {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);	
+}
+
+/*  */
+.product {
+	margin-top: 3vh;
+	background-color: #174c6b;
+	padding: 30px 100px;
+	width: 100%;
+    box-shadow: 5px 10px 30px 10px gray;
+    border-radius: 20px; 
+    transition: transform 0.3s ease;
+    color: white;
+}
+.product:hover {
+	transform: scale(1.05);
+}
+
+div.service{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	flex-wrap: nowrap; 
+	padding: 50px 50px 0 50px;
+
+}
+div.service>h1{
+	margin:30px;
+}
+div.service>img{
+	margin-top:30px;
+}
