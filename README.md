@@ -95,32 +95,32 @@
  
 ![회원가입1](https://github.com/ybm1968/ChanterLiving/assets/132187402/78132687-0d98-4b04-bcf8-a6d26444d11c)
 </details>
-
+---
 <details>
 <summary>로그인</summary>
  
 ![로그인1](https://github.com/ybm1968/ChanterLiving/assets/132187402/4b5058f2-eaa4-4ce1-bb93-bfdb6167ec39)
 </details>
-
+---
 <details>
 <summary>회원정보수정</summary>
  
 ![회원정보수정](https://github.com/ybm1968/ChanterLiving/assets/132187402/690e12e9-7463-4a4c-bc8f-fcf0827133ce)
 ![회원정보수정완료](https://github.com/ybm1968/ChanterLiving/assets/132187402/5111e05f-ab4f-4dca-8dd7-dfc0ee0d2ccf)
 </details>
-
+---
 <details>
 <summary>상품등록</summary>
  
 ![상품등록1](https://github.com/ybm1968/ChanterLiving/assets/132187402/2f665eaa-3a98-4fc5-81cc-0d0144d407aa)
 </details>
-
+---
 <details>
 <summary>상품정보수정</summary>
  
 ![상품정보수정1](https://github.com/ybm1968/ChanterLiving/assets/132187402/246a15d6-f669-4552-99af-ca451296bf44)
 </details>
-
+---
 <details>
 <summary>예약등록</summary>
   
@@ -128,13 +128,13 @@
 ![예약완료](https://github.com/ybm1968/ChanterLiving/assets/132187402/52f39cac-2af7-4644-830f-27cd0e70223f)
 ![내예약확인](https://github.com/ybm1968/ChanterLiving/assets/132187402/061cf298-b1e5-46f8-8729-58dfd53635b1)
 </details>
-
+---
 <details>
 <summary>상품상세화면 및 삭제</summary>
  
 ![상품상세화면및삭제](https://github.com/ybm1968/ChanterLiving/assets/132187402/7c67936e-1814-459c-9036-f3810503bd1c)
 </details>
-
+---
 <details>
 <summary>chaGPT</summary>
  
@@ -142,6 +142,16 @@
 </details>
 
 ## 한계
+* Ai 기능 GPT랑만 연동 / 사이트 내용과는 연동 X 
+* 검색기능 조건이 단순 (제목/내용 포함 글자만 검색 가능)
+* 추천상품리스트 조건 미비 ( 조회순 or 예약순 )
+* Id / pw 찾기 기능
+* 맞춤 견적 확인 기능
+* Css를 통해 시각적인 효과를 낼 때 공통적인 부분을 묶어 코드의 양을 줄일 필요가 있었다.
+* 부트스트랩과 css에서의 충돌을 위한 해결 시간이 오래 걸렸는데 적용 우선순위 파악에 좀 더 초점을 둘 필요가 있었다.
+* Html과 css파일을 처음부터 만들지 않고 코드의 양이 길어지면 수정을 하곤 했는데 미리 지정해 두고 효율적으로 작업 할 필요가 있었다.
+* 여러가지 라이브러리를 활용해 보고 싶었는데, 사용해 보지 못해 추가적으로 필요한 라이브러리를 찾아볼 필요가 있었다.
+
 
 
 
