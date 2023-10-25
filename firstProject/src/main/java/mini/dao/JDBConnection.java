@@ -26,14 +26,17 @@ public class JDBConnection {
             // URL : jdbc:mysql://도메인:[PORT]/[스키마]?옵션파라미터
             //		* 내 PC의 IP주소 : localhost : 127.0.0.1
             //		* 3306 : MySQL 데이터베이스의 기본 포트
-            //			String url = "jdbc:mysql://192.168.30.119:3306/joeun?serverTimezone=Asia/Seoul&allowPublicKeyRetrieval=true&useSSL=false";
+//            			String url = "jdbc:mysql://192.168.30.119:3306/joeun?serverTimezone=Asia/Seoul&allowPublicKeyRetrieval=true&useSSL=false";
 //            String url = "jdbc:mysql://localhost:3306/joeun27082?serverTimezone=Asia/Seoul&allowPublicKeyRetrieval=true&useSSL=false";
 //            String id = "joeun27082";
 //            String pw = "jojo27082!";
-            String url = "jdbc:mysql://localhost:3306/joeun27082?serverTimezone=Asia/Seoul&allowPublicKeyRetrieval=true&useSSL=false";
-            String id = "joeun27082";
-            String pw = "jojo27082!";
-
+//            String url = "jdbc:mysql://localhost:3306/joeun27082?serverTimezone=Asia/Seoul&allowPublicKeyRetrieval=true&useSSL=false";
+//            String id = "joeun27082";
+//            String pw = "jojo27082!";
+            String url = "jdbc:mysql://localhost:3306/joeun?serverTimezone=Asia/Seoul&allowPublicKeyRetrieval=true&useSSL=false";
+  			String id = "joeun";
+  			String pw = "123456";
+//  			String pw = "12345678";
             // 자바 프로그램에서 JDBC 드라이버를 연결시켜주는 클래스
             // getConnection() 메소드로 DB에 연결 요청하고 생성된 Connection 객체를 반환받는다.
             con = DriverManager.getConnection(url, id, pw);
