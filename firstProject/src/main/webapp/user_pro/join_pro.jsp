@@ -11,6 +11,9 @@
     
     <!-- 그 후로 user/complete2.jsp로 보내주세요. -->
 <%
+	request.setCharacterEncoding("UTF-8");
+	response.setContentType("text/html; charset=UTF-8");
+
 	User user = new User();
 
 	String id = request.getParameter("id");
