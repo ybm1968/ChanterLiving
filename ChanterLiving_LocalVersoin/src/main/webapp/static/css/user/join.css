@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+/* 동영상 */
+body {
+	background-color: black;
+}
+.jb-box {
+	width: 100%;
+	overflow: hidden;
+	margin: 0px auto;
+	position: absolute ;
+	position: fixed;
+	z-index: -9;
+	top: 0;
+}
+
+video {
+	width: 100%;
+}
+
+/* join css */
+.product {
+	margin-top: 3vh;
+	background-color: #BEFFF7;
+	padding: 10px 10px;
+	margin-top: 3vh;
+	width: 100%;
+    box-shadow: 5px 10px 30px 10px black;
+    border-radius: 20px; 
+    transition: transform 0.3s ease;  
+}
+
+.product:hover {
+	transform: scale(1.05);
+}
+
+.inputTogether{
+	color: blacksss;
+	text-align: center;
+	margin: 20px 0;
+
+}
+
+#inputLabel {
+	padding: 10px 10px;
+}
+
+#inputText {
+	background-color: gray;
+	color: white;
+	border: none;
+	padding: 10px 10px;
+	border-radius: 10px;
+}
