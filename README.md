@@ -81,7 +81,7 @@
 <details>
 <summary>스토리 보드(화면 설계서)</summary>
 
-![스토리보드-1](https://github.com/ybm1968/ChanterLiving/assets/132187402/fd535f29-d9e6-45c3-b2c0-da9f3ef2b26b width="300" height="300")
+![스토리보드-1](https://github.com/ybm1968/ChanterLiving/assets/132187402/fd535f29-d9e6-45c3-b2c0-da9f3ef2b26b)
 ![스토리보드-2](https://github.com/ybm1968/ChanterLiving/assets/132187402/dcb1721b-3d2a-40c4-ac56-e3c15a677828)
 ![스토리보드-3](https://github.com/ybm1968/ChanterLiving/assets/132187402/b556ee90-2073-47f2-b5c4-36683e4f1464)
 ![스토리보드-4](https://github.com/ybm1968/ChanterLiving/assets/132187402/fa2bb9d8-1f89-497a-bd73-fd9dab4dd42f)
