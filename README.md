@@ -1,4 +1,3 @@
-![image](https://github.com/ybm1968/ChanterLiving/assets/132187402/4456e1e0-97e3-41d1-a56e-e25f8bdf72dc)
 인테리어 웹페이지 고객관리 미니 프로젝트
 
 [ChanterLiving 바로가기](http://joeun27082.cafe24.com/)
