@@ -1,7 +1,9 @@
 인테리어 웹페이지 고객관리 미니 프로젝트
 
 [ChanterLiving 바로가기](http://joeun27082.cafe24.com/)
-[ChanterLiving 바로가기](https://youtu.be/Qji4F8Zu20U?si=v_POM28BZeDzftgE)
+
+
+[시연영상](https://youtu.be/Qji4F8Zu20U?si=v_POM28BZeDzftgE)
 
 
 ## 주제선정 및 배경
