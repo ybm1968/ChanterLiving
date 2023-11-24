@@ -1,6 +1,8 @@
 인테리어 웹페이지 고객관리 미니 프로젝트
 
 [ChanterLiving 바로가기](http://joeun27082.cafe24.com/)
+[ChanterLiving 바로가기](https://youtu.be/Qji4F8Zu20U?si=v_POM28BZeDzftgE)
+
 
 ## 주제선정 및 배경
 * 고객이 시간의 제약없이 24시간 상담 할 수 있는 AI 상담 서비스의 필요성을 느끼게 됨
