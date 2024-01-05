@@ -1,3 +1,6 @@
+![jsp메인](https://github.com/ybm1968/ChanterLiving/assets/132187402/cfd533d0-73b7-4312-bf76-6c91d1c41f40)
+
+
 인테리어 웹페이지 고객관리 미니 프로젝트
 
 [ChanterLiving 바로가기](http://joeun27082.cafe24.com/)
